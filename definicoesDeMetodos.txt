@@ -1,0 +1,2 @@
+// split() = divide string em substrings
+// shift() = remove o primeiro elemento de um array e o retorna

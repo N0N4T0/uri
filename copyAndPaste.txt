@@ -1,0 +1,5 @@
+var stdin = '../stdin'
+
+// Leitura
+var input = require("fs").readFileSync(stdin, "utf8")
+
